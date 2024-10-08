@@ -1,5 +1,5 @@
 "use client";
-import PostDetails from "@/app/_components/postdetails/postDetails";
+import PostDetails from "@/app/_components/postdetails/PostDetails";
 import Loading from "@/app/loading";
 import { Post } from "@/interfaces/postinterface";
 import { gitSinglePost } from "@/redux/slices/postsSlice";
